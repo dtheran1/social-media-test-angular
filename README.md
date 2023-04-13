@@ -1,6 +1,6 @@
 # SocialMediaDashboardApp
 
-https://technical-test-angular-9q9n.vercel.app/
+[Project deployed](https://technical-test-angular-9q9n.vercel.app/)
 
 ![image](https://user-images.githubusercontent.com/83596975/231641892-05374bdb-8bd4-4d64-9b37-f507e54e13c5.png)
 
